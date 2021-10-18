@@ -1,0 +1,7 @@
+{
+  "name": "update_stripe",
+  "version": "0.0.1",
+  "dependencies" : {
+    "stripe": "^8.153.0"
+  }
+}
